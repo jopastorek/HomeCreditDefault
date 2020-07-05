@@ -1,10 +1,22 @@
 # Home Credit Default Prediction
-The goal of this project is to go through a complete Data Science lifecycle.
+![](https://assets.entrepreneur.com/content/3x2/2000/20200406144106-GettyImages-1023100020.jpeg?width=700&crop=2:1)
 
 From the description of the Kaggle competition: 
 "Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful."
 
-![](https://assets.entrepreneur.com/content/3x2/2000/20200406144106-GettyImages-1023100020.jpeg?width=700&crop=2:1)
+The goal of this project is to complete a full data science lifecycle including the following topics:
+1. Business Understanding
 
+2. Data Mining
+
+3. Data Cleaning
+
+4. Data Exploration
+
+5. Feature Engineering
+
+6. Predictive Modeling
+
+7. Data Visualization
