@@ -17,3 +17,10 @@ The goal of this project is to complete a full data science lifecycle including 
 6. __Predictive Modeling__: The following models will be applied: A cost-sensitive Logistic regression accounting for the imbalancedness of the target label, a random forest with SMOTE over/undersampling approach using imblearn and finally an XGBoost approach.
 7. __Data Visualization__
 A collection of the visualizations used will be provided here.
+
+## Future Work
+There is a lot left to be done, e.g.
+- [ ] apply an exhaustive number of models to the problem
+- [ ] many variations of models still need to be tested, especially method that improve imbalanced class handling
+- [ ] more and better feature engineering
+- [ ] improve the parameter tuning process (especially higher automatization)
