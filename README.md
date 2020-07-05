@@ -23,4 +23,5 @@ There is a lot left to be done, e.g.
 - [ ] apply an exhaustive number of models to the problem
 - [ ] many variations of models still need to be tested, especially method that improve imbalanced class handling
 - [ ] more and better feature engineering
+- [ ] implementation of useful data pipelines
 - [ ] improve the parameter tuning process (especially higher automatization)
